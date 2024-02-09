@@ -1,7 +1,6 @@
 import { FaAngleDoubleRight } from "react-icons/fa";
 import { v4 as uuidv4 } from "uuid";
 const Duties = ({ duties }) => {
-  console.log(duties);
   return (
     <div>
       {duties.map((duty, index) => {
