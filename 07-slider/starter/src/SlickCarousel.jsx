@@ -6,7 +6,6 @@ import { list } from "./data";
 import { FaQuoteRight } from "react-icons/fa";
 
 const SlickCarousel = () => {
-<<<<<<< HEAD
   var settings = {
     dots: true,
     infinite: true,
@@ -36,9 +35,6 @@ const SlickCarousel = () => {
       </Slider>
     </section>
   );
-=======
-  return <h2>Slick Slider</h2>;
->>>>>>> 5be7485f6b804e7176348472cb954bf19f4fe5ce
 };
 
 export default SlickCarousel;
